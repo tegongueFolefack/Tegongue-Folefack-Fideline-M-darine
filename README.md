@@ -31,9 +31,9 @@
   <a href="https://neo4j.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="neo4j" width="40" height="40"/>
   </a>
-  <a href="https://www.ibm.com/products/db2" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/ibm_db2/ibm_db2-icon.svg" alt="db2" width="40" height="40"/>
-  </a>
+ <a href="https://www.ibm.com/products/db2" target="_blank" rel="noreferrer">
+    
+</a>
 
   <!-- Outils Big Data -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
