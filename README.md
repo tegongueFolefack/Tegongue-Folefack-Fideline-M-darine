@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tegongue Folefack Fideline Medarine</h1>
 <h3 align="center">Data Engineer, developpeur Full Stack mobile and web</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tegongue&label=Profile%20views&color=0e75b6&style=flat" alt="Tegongue" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tegongueFolefack&label=Profile%20views&color=0e75b6&style=flat" alt="tegongueFolefack" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tegongue" alt="Tegongue" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tegongueFolefack" alt="tegongueFolefack" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -129,14 +129,14 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tegongue&show_icons=true&locale=en&layout=compact" alt="Tegongue" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tegongueFolefack&show_icons=true&locale=en&layout=compact" alt="tegongueFolefack" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tegongue&show_icons=true&locale=en" alt="Tegongue" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tegongueFolefack&show_icons=true&locale=en" alt="tegongueFolefack" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tegongue&" alt="Tegongue" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tegongueFolefack&" alt="tegongueFolefack" /></p>
 
 <p align="center">
-    - <a href="mailto:tegonguefolefackf@gmail.com">Send email</a>
+    - <a href="mailto:tegongueFolefackfolefackf@gmail.com">Send email</a>
     <p style='margin-bottom: 20px'>
     </p>
 </p>  
