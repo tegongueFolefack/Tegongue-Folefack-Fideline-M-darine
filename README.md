@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tegongue Folefack Fideline Medarine</h1>
-<h3 align="center">Data Engineer, developpeur Full Stack mobile and web</h3>
+<h3 align="center">Data Engineer, Full Stack developper mobile and web</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tegongueFolefack&label=Profile%20views&color=0e75b6&style=flat" alt="tegongueFolefack" /> </p>
 
